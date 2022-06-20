@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/icssretrospect/static/css/main.dc98918a.chunk.css",
-    "main.js": "/icssretrospect/static/js/main.23907d64.chunk.js",
-    "main.js.map": "/icssretrospect/static/js/main.23907d64.chunk.js.map",
+    "main.js": "/icssretrospect/static/js/main.092cdbfb.chunk.js",
+    "main.js.map": "/icssretrospect/static/js/main.092cdbfb.chunk.js.map",
     "runtime-main.js": "/icssretrospect/static/js/runtime-main.15fb446f.js",
     "runtime-main.js.map": "/icssretrospect/static/js/runtime-main.15fb446f.js.map",
     "static/css/2.4ce9e501.chunk.css": "/icssretrospect/static/css/2.4ce9e501.chunk.css",
@@ -16,6 +16,10 @@
     "static/media/chef.211e6c65.png": "/icssretrospect/static/media/chef.211e6c65.png",
     "static/media/retro1.d8a9297b.jpg": "/icssretrospect/static/media/retro1.d8a9297b.jpg",
     "static/media/retro2.13e443d9.jpg": "/icssretrospect/static/media/retro2.13e443d9.jpg",
+    "static/media/retro3.eae1ad31.jpg": "/icssretrospect/static/media/retro3.eae1ad31.jpg",
+    "static/media/retro4.827056a3.jpg": "/icssretrospect/static/media/retro4.827056a3.jpg",
+    "static/media/retro5.e092d5be.jpg": "/icssretrospect/static/media/retro5.e092d5be.jpg",
+    "static/media/retro6.047cccd2.jpg": "/icssretrospect/static/media/retro6.047cccd2.jpg",
     "static/media/sign.d91f886c.png": "/icssretrospect/static/media/sign.d91f886c.png",
     "static/media/spoon.0d32cbc7.png": "/icssretrospect/static/media/spoon.0d32cbc7.png"
   },
@@ -24,6 +28,6 @@
     "static/css/2.4ce9e501.chunk.css",
     "static/js/2.0c2bd0b3.chunk.js",
     "static/css/main.dc98918a.chunk.css",
-    "static/js/main.23907d64.chunk.js"
+    "static/js/main.092cdbfb.chunk.js"
   ]
 }
